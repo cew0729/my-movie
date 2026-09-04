@@ -1,0 +1,4 @@
+text
+streamlit
+requests
+pandas
