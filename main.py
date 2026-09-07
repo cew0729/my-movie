@@ -1,4 +1,4 @@
-```python
+python
 import datetime
 
 import pandas as pd
@@ -164,4 +164,3 @@ fig = px.bar(
 )
 
 st.plotly_chart(fig, width="stretch")
-```
